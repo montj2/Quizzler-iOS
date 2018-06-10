@@ -1,9 +1,6 @@
 # Quizzler
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Quizzler App
-
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
-Pro: Git clone to your Xcode projects folder.
+Basic T/F Quiz App (Swift 4.1/Xcode 10) - Quizzler App
+.
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
@@ -44,5 +41,3 @@ Pro: Git clone to your Xcode projects folder.
         list.append(Question(text: "Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.", correctAnswer: true))
         
         
-
-Copyright © The App Brewery
